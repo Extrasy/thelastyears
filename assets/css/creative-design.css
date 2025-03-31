@@ -169,6 +169,16 @@ a {
   background-color: transparent;
 }
 
+#resources a{
+  color: #4d7aa1;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+#resources h6{
+  color: #ffc233;
+}
+
 a:hover {
   color: #d4aa05;
   text-decoration: none;
