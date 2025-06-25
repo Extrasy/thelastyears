@@ -11227,6 +11227,13 @@ nav.page-navbar.affix .navbar-brand .text-dark {
   color: #fff;
 }
 
+@media
+(max-width: 450px) {
+  .header .header-content {
+    right: 10%;
+  }
+}
+
 .header .success-content {
   position: absolute;
   width: 50%;
